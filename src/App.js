@@ -1,10 +1,13 @@
-import logo from './logo.svg';
-import './App.css';
+import './Styles/app.scss';
+import { motion } from 'framer-motion';
+import Navbar from './components/Navbar';
+
 
 function App() {
+  
   return (
     <div className="App">
-      <h1>Elgebaly Productions</h1>
+     <Navbar />
     </div>
   );
 }
