@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/elgebaly-productions/static/css/main.e578cf3b.css",
-    "main.js": "/elgebaly-productions/static/js/main.91ec866a.js",
+    "main.css": "/elgebaly-productions/static/css/main.4e3acf20.css",
+    "main.js": "/elgebaly-productions/static/js/main.2f1dcebe.js",
     "index.html": "/elgebaly-productions/index.html",
-    "main.e578cf3b.css.map": "/elgebaly-productions/static/css/main.e578cf3b.css.map",
-    "main.91ec866a.js.map": "/elgebaly-productions/static/js/main.91ec866a.js.map"
+    "main.4e3acf20.css.map": "/elgebaly-productions/static/css/main.4e3acf20.css.map",
+    "main.2f1dcebe.js.map": "/elgebaly-productions/static/js/main.2f1dcebe.js.map"
   },
   "entrypoints": [
-    "static/css/main.e578cf3b.css",
-    "static/js/main.91ec866a.js"
+    "static/css/main.4e3acf20.css",
+    "static/js/main.2f1dcebe.js"
   ]
 }
